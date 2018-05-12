@@ -1,0 +1,42 @@
+_repo: Wine-Water-and-Song_35115
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: 'This little volume is chiefly composed of the rollicking, Bacchanalian
+  and ironical songs from Mr. Chesterton''s novel, ""The Flying Inn"", with certain
+  additions. Sillince''s drawings have obvious merits, but are far from obvious. The
+  vigour, the derision, the sheer comicality are there, plus a lyrical touch that
+  shows real understanding. The final drawings epitomise Chesterton''s spirit and
+  his work. Contents Include: The Englishman - Wine and Water - The Song Against Grocers
+  - The Rolling English Road - The Song of Quoodle - Pioneers, O Pioneers - The Logical
+  Vegetarian - ""The Sar.'
+gutenberg_issued: '2011-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: The Englishman -- Wine and water -- The song against grocers -- The
+  rolling English road -- The song of Quoodle -- Pioneers, o pioneers -- The logical
+  vegetarian -- "The Saracen's Head" -- The good rich man -- The song against songs
+  -- Me heart -- The song of the oak -- The road to roundabout -- The song of the
+  strange ascetic -- The song of right and wrong -- Who goes home?
+title: Wine, Water, and Song
+url: http://www.gutenberg.org/ebooks/35115
